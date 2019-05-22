@@ -1,0 +1,5 @@
+APP_NAME: 'broken'
+MS_NAME: 'brokensvc'
+BRANCH: 'master'
+GIT_SOURCE_URL: 'https://github.com/rajeshdeshpande0/brokensvc.git'
+SONAR_HOST_URL: 'http://'
